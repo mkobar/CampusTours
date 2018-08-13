@@ -11,8 +11,8 @@ New Campus Tour iOS App with a custom DW/Capsules backend.
 
 Swift front end can be found here:  https://bitbucket.org/SleepingTurtle/campustourguide
 
+## License
 
+Swift Application (only) released under the [MIT License](http://opensource.org/licenses/MIT)
 
-Swift Application (only) released under the [MIT License] (http://opensource.org/licenses/MIT)
-
-Copyright (c) 2015 [RKO Security] (http://www.rkosecurity.com)
+Copyright (c) 2015 [RKO Security](http://www.rkosecurity.com)
